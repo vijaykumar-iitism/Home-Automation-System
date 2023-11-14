@@ -1,7 +1,7 @@
 
-# Home Automation UI App
+# Home Automation System App
 
-## [Live Demo](http://home-automation-ui.netlify.com)
+## [Live Demo](https://home-automation-system-mu.vercel.app/)
 
 ## Description
 
